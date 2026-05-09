@@ -10,7 +10,11 @@
 <img src="https://komarev.com/ghpvc/?username=dulmisehajini&color=blueviolet&style=flat" />
 </p>
 
-<p align="center">🎓 Information Systems Undergraduate at University of Colombo School of Computing.</p>
+- 📚 My school **Sujatha Vidyala, Matara**
+- 🎓 Undergraduate of **University of Colombo School of Computing**
+- 🌱 I'm currently learning **Information Systems**
+- 💼 All of my projects are available at **[this Account](https://github.com/dulmisehajini)**
+- ⚡ Fun fact: **...**
 
 ---
 
