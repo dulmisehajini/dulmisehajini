@@ -13,7 +13,7 @@
 ## 💻 Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=kotlin,php,html,c,c++,css,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,php,html,c,cpp,css,java,python,react,js,nodejs,spring)](https://skillicons.dev)
 
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=git,vscode,androidstudio,github)](https://skillicons.dev)
