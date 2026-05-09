@@ -1,5 +1,3 @@
-<h1 align="center">Dulmi Sehajinie</h1>
-
 <h3 align="center">IS Undergrad | University of Colombo School of Computing | Passionate Learner & Problem Solver</h3>
 
 <p align="center">
@@ -28,12 +26,9 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dulmi-sehajinie)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dulmi_seha)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dulmi.sehajinie)
-</p>
-
 ---
 
 ## 🔥 GitHub Activity
