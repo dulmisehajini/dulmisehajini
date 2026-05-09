@@ -2,6 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dulmisehajini&color=blueviolet&style=flat)
 
+- 📚 My school Sujatha Vidyala,Matara
 - 🎓 Undergraduate of **University of Colombo School of Computing**
 - 🌱 I'm currently learning **Information Systems**
 - 💼 All of my projects are available at **[this Account](https://github.com/dulmisehajini)**
@@ -12,7 +13,7 @@
 ## 💻 Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=kotlin,php,html,css,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,php,html,c,c++,css,java,python)](https://skillicons.dev)
 
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=git,vscode,androidstudio,github)](https://skillicons.dev)
