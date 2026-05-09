@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dulmisehajini&color=blueviolet&style=flat)
 
-- 📚 My school Sujatha Vidyala,Matara
+- 📚 My school **Sujatha Vidyala, Matara**
 - 🎓 Undergraduate of **University of Colombo School of Computing**
 - 🌱 I'm currently learning **Information Systems**
 - 💼 All of my projects are available at **[this Account](https://github.com/dulmisehajini)**
@@ -32,8 +32,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulmisehajini&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulmisehajini&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulmisehajini&layout=compact&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dulmisehajini&theme=tokyo-night&hide_border=true)
+---
+
+## 🔥 GitHub Activity
+
+[![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulmisehajini&theme=tokyonight)](https://github.com/dulmisehajini)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulmisehajini&theme=tokyonight&hide_border=true)](https://github.com/dulmisehajini)
