@@ -28,18 +28,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulmisehajini&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dulmisehajini&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulmisehajini&layout=compact&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dulmisehajini&theme=tokyo-night&hide_border=true)
-
 ## 🔥 GitHub Activity
 
 [![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulmisehajini&theme=tokyonight)](https://github.com/dulmisehajini)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulmisehajini&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulmisehajini&theme=tokyonight&hide_border=true)](https://github.com/dulmisehajini)
