@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/dulmisehajini/dulmisehajini/main/header.jpg)
+![Banner](https://raw.githubusercontent.com/dulmisehajini/dulmisehajini/main/header1.jpg)
 # Hi there 👋 I'm Dulmi Sehajinie
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dulmisehajini&color=blueviolet&style=flat)
